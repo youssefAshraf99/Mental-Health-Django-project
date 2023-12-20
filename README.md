@@ -46,17 +46,3 @@ To run the project locally, follow these steps:
 
 We welcome contributions! Please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- [List any external libraries, tools, or resources you used.]
-
-## Contact
-
-[Provide contact information or links to relevant channels.]
-
----
-[Include badges, if applicable, e.g., Build Status, License, etc.]
